@@ -1,8 +1,8 @@
 # My-Datapacks
-Collection of my CurseForge and Modrinth datapacks.
+Welcome to my repository! Here, you’ll find a showcase of my datapack creations, designed to enhance and customize your Minecraft experience. These projects are available on both CurseForge and Modrinth.
 
-My accounts: 
+Feel free to explore my profiles for a full list of my work:
 
-https://www.curseforge.com/members/rxnir/projects
-
-https://modrinth.com/user/RxniR
+CurseForge: https://www.curseforge.com/members/rxnir/projects
+Modrinth: https://modrinth.com/user/RxniR
+I’m constantly working to bring innovative and high-quality content to the community. Your feedback and support are always appreciated!
