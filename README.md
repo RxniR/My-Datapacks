@@ -8,3 +8,4 @@ CurseForge: https://www.curseforge.com/members/rxnir/projects
 Modrinth: https://modrinth.com/user/RxniR
 
 I’m constantly working to bring innovative and high-quality content to the community. Your feedback and support are always appreciated!
+Note: I have decided not to use .zip files for the GitHub repository, because you can't view zip files, but the file download will always be a zip file.
