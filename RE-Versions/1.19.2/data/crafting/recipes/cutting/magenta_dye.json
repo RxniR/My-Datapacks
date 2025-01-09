@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "tag": "regions_unexplored:dye/makes_magenta_dye"
+      }
+    ],
+    "result": [
+      {
+        "count": 2,
+        "item": "minecraft:magenta_dye"
+      }
+    ],
+    "tool": {
+        "tag": "forge:tools/knives"
+    }
+  }
