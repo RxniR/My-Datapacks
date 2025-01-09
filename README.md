@@ -8,4 +8,7 @@ CurseForge: https://www.curseforge.com/members/rxnir/projects
 Modrinth: https://modrinth.com/user/RxniR
 
 I’m constantly working to bring innovative and high-quality content to the community. Your feedback and support are always appreciated!
-Note: I have decided not to use .zip files for the GitHub repository, because you can't view zip files, but the file download will always be a zip file.
+
+By the way, here is what each file stands for: OTBWG = Oh The Biomes We've Gone. TW = Twilight Forest. RE = Regions Unexplored. BS = Blue Skies. UG = The Undergarden. DD = Deeper Darker. BE = BetterEnd. A+A = Aether + Addons. BN = BetterNether. EC = Ecologics. SS = Spacing Structures. EP = End's Phantasm. TA = Team Abnormals Mods. EE = Eldritch End. TATOS = The Abyss II - The Other Side. All files end with Farmer's Delight - Bark Cutting Compat, (Besides Spacing Structures).
+
+Thats about all!
