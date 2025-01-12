@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aether_redux:sporing_blightwillow_log"
+    }
+  ],
+  "result": [
+    {
+      "item": "aether_redux:stripped_blightwillow_log"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "aether_redux:blighted_spores"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}
