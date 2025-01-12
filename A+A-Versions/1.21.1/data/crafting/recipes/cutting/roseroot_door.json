@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "deep_aether:roseroot_door"
+    }
+  ],
+  "result": [
+    {
+      "item": "deep_aether:roseroot_planks"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}
