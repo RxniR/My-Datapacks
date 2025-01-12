@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ecologics:flowering_azalea_log"
+    }
+  ],
+  "result": [
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "ecologics:azalea_flower"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}
